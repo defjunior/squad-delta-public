@@ -1,0 +1,22 @@
+{
+  "verified_date": "2026-10-06",
+  "comparison_note": "Actual source; modified ignores editor outer blank-line differences. No Roblox runtime/test/security/performance guarantee. Earlier generation manifest unchanged.",
+  "files": [
+    {
+      "path": "src/replicatedfirst/Client/Modules/Loader.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "cbbace6887005f3e26afe8f1f96e8a0368346a4cd743a512486b999813f3a28c",
+      "output_sha256": "cbbace6887005f3e26afe8f1f96e8a0368346a4cd743a512486b999813f3a28c",
+      "modified": false,
+      "lines": 941
+    },
+    {
+      "path": "src/replicatedfirst/Client/Modules/BaseController.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "d3ff9cd4b634fd96d87531ebd5ba8bd04c98482cb9f0ce366de8b12e9d20c114",
+      "output_sha256": "d3ff9cd4b634fd96d87531ebd5ba8bd04c98482cb9f0ce366de8b12e9d20c114",
+      "modified": false,
+      "lines": 193
+    }
+  ]
+}

@@ -1,0 +1,737 @@
+{
+  "verified_date": "2026-10-06",
+  "status": "Partial extraction; sensitive mechanic slice pending owner decision.",
+  "comparison_note": "Live source and committed output compared file-by-file. Outer blank-line differences ignored for modified flag. Parser checks are not Roblox runtime tests. Earlier manifests unchanged.",
+  "files": [
+    {
+      "path": "src/ServerStorage/ItemServers/GrenadeServer.server.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "081f0ffd248244b8864db34a6067f7c1679b8804319f4ac3c1e7bb7c6c049a7e",
+      "output_sha256": "ac32f14a6a645a30bf924af3fe82134aee237dcd1e8f182762bc68b027973058",
+      "modified": false,
+      "lines": 597,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/ServerStorage/ItemServers/GunServer.server.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "3894d77b556d563eb1c293e15d654e95740fff9c4db870be987ca6e28a084be2",
+      "output_sha256": "20fa48e61a959dcc0065b85147705b071541b07a35184acedcea364d8143384e",
+      "modified": true,
+      "lines": 2250,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/ServerStorage/ItemServers/MeleeServer.server.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "c8cd0929b5793a8d70618e15b4034a893277cf83178443d0d61ad27465cbdb42",
+      "output_sha256": "c8cd0929b5793a8d70618e15b4034a893277cf83178443d0d61ad27465cbdb42",
+      "modified": false,
+      "lines": 591,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/ServerStorage/ItemServers/PDAServer.server.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "8b9a3d8cc786293722c0775f192695057b8ddc84db252bed87343ab9964b1dc8",
+      "output_sha256": "8b9a3d8cc786293722c0775f192695057b8ddc84db252bed87343ab9964b1dc8",
+      "modified": false,
+      "lines": 457,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/ServerStorage/ItemServers/PlantedUHEServer.server.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "64871a4ee2043a67acbc37b724cf1d66d0899303e3931924f002ad864aa2cdba",
+      "output_sha256": "64871a4ee2043a67acbc37b724cf1d66d0899303e3931924f002ad864aa2cdba",
+      "modified": false,
+      "lines": 480,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/ServerStorage/ItemServers/UHEServer.server.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "790852ade790af7165261d3ae83754f44ebc95dd0e9ce42b425cabb0dda561a2",
+      "output_sha256": "790852ade790af7165261d3ae83754f44ebc95dd0e9ce42b425cabb0dda561a2",
+      "modified": false,
+      "lines": 897,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/replicatedfirst/Client/Controllers/GameStateController.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "e812834f1c7f8e875c31608947df1f494c6c8787643328def729380a75620f4c",
+      "output_sha256": "e812834f1c7f8e875c31608947df1f494c6c8787643328def729380a75620f4c",
+      "modified": false,
+      "lines": 189,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/replicatedfirst/Client/Controllers/ToolController.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "b7f896d256eb719a680bda876c346eead2488fb56996dbab5438cff8dc16ffb2",
+      "output_sha256": "b7f896d256eb719a680bda876c346eead2488fb56996dbab5438cff8dc16ffb2",
+      "modified": false,
+      "lines": 661,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/replicatedfirst/Client/VMControllers/Grenade.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "38ad8a137fe0ea4ffad13839040d510b3c112937d35f8c06a4be2cdbd64c3e0a",
+      "output_sha256": "38ad8a137fe0ea4ffad13839040d510b3c112937d35f8c06a4be2cdbd64c3e0a",
+      "modified": false,
+      "lines": 456,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/replicatedfirst/Client/VMControllers/Gun.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "70f5bba1ecbe8180088f6c53a1bc0b29d775db3e643cd9a39d3664c8f2439fda",
+      "output_sha256": "70f5bba1ecbe8180088f6c53a1bc0b29d775db3e643cd9a39d3664c8f2439fda",
+      "modified": false,
+      "lines": 1693,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/replicatedfirst/Client/VMControllers/Knife.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "0e631063f8162c01e90292fd2d7684e0ebef38ac884f7194c7861a3bba8c28cd",
+      "output_sha256": "0e631063f8162c01e90292fd2d7684e0ebef38ac884f7194c7861a3bba8c28cd",
+      "modified": false,
+      "lines": 913,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/replicatedfirst/Client/VMControllers/PDA.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "9dbb0a0c45ebe41d6acccd35f4656c33503fadac194c728e384c15655e06ff88",
+      "output_sha256": "ee8cef9f3077572e71e9fb6d21a1871d4fbbea403e4d7bc2376cc25e587d1b38",
+      "modified": true,
+      "lines": 1016,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/replicatedfirst/Client/VMControllers/UHE-4.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "393d62a25715f31ce6f21ad3b44c1208c48ea35d0f0257f0a18f39a38deafed5",
+      "output_sha256": "393d62a25715f31ce6f21ad3b44c1208c48ea35d0f0257f0a18f39a38deafed5",
+      "modified": false,
+      "lines": 534,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/Item/Grenade.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "560959c82ba7d64ea6ca1bc909e919fdc6dd6854bd3a87c80c934bbd86fb7ac0",
+      "output_sha256": "560959c82ba7d64ea6ca1bc909e919fdc6dd6854bd3a87c80c934bbd86fb7ac0",
+      "modified": false,
+      "lines": 78,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/Item/Gun.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "5ef86c1138ffa8f6f98ea1db601865cbdbe892d878a8c3a4eaffe963162dcce1",
+      "output_sha256": "5ef86c1138ffa8f6f98ea1db601865cbdbe892d878a8c3a4eaffe963162dcce1",
+      "modified": false,
+      "lines": 105,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/Item/Knife.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "9a401075ab290773c37fbaac88e42ed7e6219ca62a1cafb82fd8c1f2f39c95da",
+      "output_sha256": "9a401075ab290773c37fbaac88e42ed7e6219ca62a1cafb82fd8c1f2f39c95da",
+      "modified": false,
+      "lines": 79,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/Item/PDA.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "dec036dc866885eccdf7d7b1afa462bd6164cbc39299f4429317d475ed1c08de",
+      "output_sha256": "dec036dc866885eccdf7d7b1afa462bd6164cbc39299f4429317d475ed1c08de",
+      "modified": false,
+      "lines": 115,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/Item/UHE-4.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "f796e96ebf483bf8307b937b1b57ce8f33202a41d6392822e3d11ce7ffd658df",
+      "output_sha256": "f796e96ebf483bf8307b937b1b57ce8f33202a41d6392822e3d11ce7ffd658df",
+      "modified": false,
+      "lines": 110,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/Item/init.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "df2b6bb69ad58da01a1e48efa8ce563ae29eaf0750f57035e3a9a953fcbfef4d",
+      "output_sha256": "3120d6ed99db13c2ebc694244a8c9dcfc76b129dcd34c1f21cb185d540b434ec",
+      "modified": false,
+      "lines": 217,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/Components/Base.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "649f16bca4c2b22c1657d412bdd5c3795fc1cbc4d0e34547a73980dd9f25c549",
+      "output_sha256": "649f16bca4c2b22c1657d412bdd5c3795fc1cbc4d0e34547a73980dd9f25c549",
+      "modified": false,
+      "lines": 33,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/Components/Registry.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "be080305038de65300f05bfb24482a894a0102abfd2e75b4fe9c82a5d1fbd0e8",
+      "output_sha256": "be080305038de65300f05bfb24482a894a0102abfd2e75b4fe9c82a5d1fbd0e8",
+      "modified": false,
+      "lines": 27,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/Components/fps/LoadoutComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "16915a8c6094a1c588fdb4eb504bde8b2e9708efd383d418cc83474b51d242b3",
+      "output_sha256": "16915a8c6094a1c588fdb4eb504bde8b2e9708efd383d418cc83474b51d242b3",
+      "modified": false,
+      "lines": 37,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/Components/fps/MovementComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "b708f5951ca69a4539e76af4c81da03b0db5591a545f7a16c1a0e9e1712a1852",
+      "output_sha256": "b708f5951ca69a4539e76af4c81da03b0db5591a545f7a16c1a0e9e1712a1852",
+      "modified": false,
+      "lines": 7,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/Components/fps/ProgressionComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "b35bf786a95afdf22fd766158c2eaace11efb51c1737e7341d91656e04b13ca2",
+      "output_sha256": "b35bf786a95afdf22fd766158c2eaace11efb51c1737e7341d91656e04b13ca2",
+      "modified": false,
+      "lines": 7,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/Components/fps/RoundComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "e8d7dfbae019964dd14e4df7015d39f401a68a8055097a4258f07aec89bd68a2",
+      "output_sha256": "e8d7dfbae019964dd14e4df7015d39f401a68a8055097a4258f07aec89bd68a2",
+      "modified": false,
+      "lines": 49,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/Components/fps/StatusComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "1db69eef08552f3c498fa252d4bc572ee195d6c8c8c713f796bb6dfa2c2cc5c0",
+      "output_sha256": "1db69eef08552f3c498fa252d4bc572ee195d6c8c8c713f796bb6dfa2c2cc5c0",
+      "modified": false,
+      "lines": 7,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/Components/fps/TeamComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "bbfa8a4d8034450859f364fb0e9e0fcf3b9bfa85022cae02c4118c9a3e29fb6d",
+      "output_sha256": "bbfa8a4d8034450859f364fb0e9e0fcf3b9bfa85022cae02c4118c9a3e29fb6d",
+      "modified": false,
+      "lines": 7,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/Components/init.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "5447c7edf229ae90ec6b1d2214ce792d113b7269e3cd8f8b7fa311aaf9db6252",
+      "output_sha256": "5447c7edf229ae90ec6b1d2214ce792d113b7269e3cd8f8b7fa311aaf9db6252",
+      "modified": false,
+      "lines": 47,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/Components/neutral/MovementComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "5d10d0517ab4b8dc0a50bdb2e5f09e77a36d4d0c9664b23b80f0128540894d73",
+      "output_sha256": "5d10d0517ab4b8dc0a50bdb2e5f09e77a36d4d0c9664b23b80f0128540894d73",
+      "modified": false,
+      "lines": 100,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/Components/neutral/StatusComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "be67bfd6cb1ff641b7965d28e78c01f09dc92fd96dfc8106b4dee66048d4535a",
+      "output_sha256": "be67bfd6cb1ff641b7965d28e78c01f09dc92fd96dfc8106b4dee66048d4535a",
+      "modified": false,
+      "lines": 79,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/Components/neutral/TeamComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "b2c3192b5f80e8840babae84178f0125a44472f282d2e407b92c92e54a05c461",
+      "output_sha256": "b2c3192b5f80e8840babae84178f0125a44472f282d2e407b92c92e54a05c461",
+      "modified": false,
+      "lines": 31,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/PlayerBase.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "57f6d4c5ac454ef7d1e1b6c74b726293322e3d5293d0028ae40bfa11182a0cce",
+      "output_sha256": "6b2a6bc8af0020698fa3b53e0c3fba00b4546c0a737f9d203c383312d7429202",
+      "modified": false,
+      "lines": 247,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Classes/PlayerLike/init.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "815829ec456c03864328d40625ec79ba3d0634edc9d822db899bce2a23ea96bc",
+      "output_sha256": "815829ec456c03864328d40625ec79ba3d0634edc9d822db899bce2a23ea96bc",
+      "modified": false,
+      "lines": 183,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Controllers/FPSGameController.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "eb471aae9d47fdf53c8bc4d33294c322348b51159c97e59ab9c9497eb757dbdb",
+      "output_sha256": "eb471aae9d47fdf53c8bc4d33294c322348b51159c97e59ab9c9497eb757dbdb",
+      "modified": false,
+      "lines": 103,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Controllers/TDGameController.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "e1475a3490641cdaf8ff2ef669ad69d128efce72e58620e5ad93d13132241d13",
+      "output_sha256": "e1475a3490641cdaf8ff2ef669ad69d128efce72e58620e5ad93d13132241d13",
+      "modified": false,
+      "lines": 10,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameController.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "e9252dff63676b54ac03666140eca2d2a5150caf7f39c8d93f7fb79e2452d479",
+      "output_sha256": "1d40af5eb77718dfb983feeae0838c12b51ab66e69c4e4d3085e78a48f472677",
+      "modified": false,
+      "lines": 6,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/ArmsRace/ArmsRaceConfig.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "4152157854c855264da54cb253cabdf9ea9ebb886dcc9d0b6d37be7a98dcd7f0",
+      "output_sha256": "ea0669753677d71b362b9adfde32c24e4b5bc1e82bcbdd5058b0b009622bd325",
+      "modified": true,
+      "lines": 17,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/ArmsRace/Components/ArmsRaceComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "8a674550820163c3ff2c71e4ddf3c18ff5f5afd36ec420fe47040dd881a6ffb0",
+      "output_sha256": "8a674550820163c3ff2c71e4ddf3c18ff5f5afd36ec420fe47040dd881a6ffb0",
+      "modified": false,
+      "lines": 198,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/ArmsRace/Server.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "f0f516b23aceb553648912cc84fbd6c16cced4e4de891fc4550786c2ff1d1bd2",
+      "output_sha256": "f0f516b23aceb553648912cc84fbd6c16cced4e4de891fc4550786c2ff1d1bd2",
+      "modified": false,
+      "lines": 15,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Common/DeathmatchFlowComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "33a6d973e2483d4d4158d577d450f613c86f73b72c701d2979e297c51b142292",
+      "output_sha256": "33a6d973e2483d4d4158d577d450f613c86f73b72c701d2979e297c51b142292",
+      "modified": false,
+      "lines": 510,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Common/DeathmatchFlowComponent.luau",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "33a6d973e2483d4d4158d577d450f613c86f73b72c701d2979e297c51b142292",
+      "output_sha256": "33a6d973e2483d4d4158d577d450f613c86f73b72c701d2979e297c51b142292",
+      "modified": false,
+      "lines": 510,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Common/LoadoutMutationComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "589d25c1af3efd71a2abec799d03237fe42381ff5dcb537bccf9ec2bffe564ec",
+      "output_sha256": "589d25c1af3efd71a2abec799d03237fe42381ff5dcb537bccf9ec2bffe564ec",
+      "modified": false,
+      "lines": 192,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Common/ModePlayerUtils.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "2da0608ee1c1135aea5dda26b0b17e6f35425d6da3072d948a376a2cf9cfc995",
+      "output_sha256": "2da0608ee1c1135aea5dda26b0b17e6f35425d6da3072d948a376a2cf9cfc995",
+      "modified": false,
+      "lines": 236,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Common/ModePlayerUtils.luau",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "df30aeaab335359027bbd25d07371c9cbeed6ebaa9d49a0b6c538f3bf1a4c617",
+      "output_sha256": "df30aeaab335359027bbd25d07371c9cbeed6ebaa9d49a0b6c538f3bf1a4c617",
+      "modified": false,
+      "lines": 236,
+      "source_parse_error": true,
+      "output_parse_error": true
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Common/ModeRules.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "a17899bba3a015c65437a3b8d6fc6696fe1a77af21e23876c45a9a259b37be67",
+      "output_sha256": "024a709eab2943a134993fb66a467bc03946198e7203b7bbec32ec1f795b9815",
+      "modified": true,
+      "lines": 63,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Common/ModeServer.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "5b489bbb079e5a2b6230be502a0fa83254169eb7e13c86c53ed946c2ed30d78e",
+      "output_sha256": "5b489bbb079e5a2b6230be502a0fa83254169eb7e13c86c53ed946c2ed30d78e",
+      "modified": false,
+      "lines": 275,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Defusal/Components/AliveRosterComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "dbcde9a9003c2ea89279546a86f21add6433cfce79383db4f04532fbd5964dfe",
+      "output_sha256": "dbcde9a9003c2ea89279546a86f21add6433cfce79383db4f04532fbd5964dfe",
+      "modified": false,
+      "lines": 264,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Defusal/Components/AnnouncerComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "d69cc3ff3a07141045248eabeb9d981afa0dfa2ea4d9659f9b76f9d0102a6cea",
+      "output_sha256": "1de3efdc04a6c03c81f885100605247f54fa1982c74ef09b491dc7a1b9a6a2cc",
+      "modified": true,
+      "lines": 407,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Defusal/Components/BombObjectiveComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "debc586c244b016347bec95dfa3e01ea310d955f056e48756f4800358db120d2",
+      "output_sha256": "debc586c244b016347bec95dfa3e01ea310d955f056e48756f4800358db120d2",
+      "modified": false,
+      "lines": 337,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Defusal/Components/Config.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "1aa7d162f2fc41b92a09872eb850edbdd1265da8c692eebe96e8a62b2b721b78",
+      "output_sha256": "1aa7d162f2fc41b92a09872eb850edbdd1265da8c692eebe96e8a62b2b721b78",
+      "modified": false,
+      "lines": 1,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Defusal/Components/EliminationWinRuleComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "13a6d82aceb078291ae7593e8cdc7b7b800141cdb1f0aa3e68b4e1e8e7e23311",
+      "output_sha256": "13a6d82aceb078291ae7593e8cdc7b7b800141cdb1f0aa3e68b4e1e8e7e23311",
+      "modified": false,
+      "lines": 110,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Defusal/Components/MapVoteComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "9f4d6946e8fe63c0fde7602b1297dab47b505bac5e7e70394564967c76d0905e",
+      "output_sha256": "9f4d6946e8fe63c0fde7602b1297dab47b505bac5e7e70394564967c76d0905e",
+      "modified": false,
+      "lines": 362,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Defusal/Components/ObjectiveEventBridgeComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "be33241d42999e41e4838dbb8390dd9ecd5e896a0e042e27c64d9bd2f25e8946",
+      "output_sha256": "be33241d42999e41e4838dbb8390dd9ecd5e896a0e042e27c64d9bd2f25e8946",
+      "modified": false,
+      "lines": 88,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Defusal/Components/ObjectiveWinRuleComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "7d2cabe8ade6b6923a487d5a39fbedb99adf07fd3a0f18a00da55e9dcafa327a",
+      "output_sha256": "7d2cabe8ade6b6923a487d5a39fbedb99adf07fd3a0f18a00da55e9dcafa327a",
+      "modified": false,
+      "lines": 80,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Defusal/Components/ScoreRuleComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "70bdd96e520404e3e9cc27db80cf03d237f0dc1f3841d66f0338358dd7360dbb",
+      "output_sha256": "70bdd96e520404e3e9cc27db80cf03d237f0dc1f3841d66f0338358dd7360dbb",
+      "modified": false,
+      "lines": 84,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Defusal/Components/TimerWinRuleComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "7d050dc434d634c6dc43a5eb416a1c287842cf5499d92136873c07b827b331c1",
+      "output_sha256": "7d050dc434d634c6dc43a5eb416a1c287842cf5499d92136873c07b827b331c1",
+      "modified": false,
+      "lines": 87,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Defusal/DefusalConfig.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "ff87a899650daa1965381c3b8ade8b51b2b1b5cd4b8709e3c4448a512c6bd2e4",
+      "output_sha256": "2a601d0e56db189dfc43a27ab943a78f9d32aba288a6f83c22d483bf703d8768",
+      "modified": true,
+      "lines": 34,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Defusal/Server.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "3d1678eda2a662fa53e61a430b7d1b4e1671f8512be51f1c0f36cc3ec413e660",
+      "output_sha256": "3d1678eda2a662fa53e61a430b7d1b4e1671f8512be51f1c0f36cc3ec413e660",
+      "modified": false,
+      "lines": 15,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/HideAndSeek/Components/HideAndSeekComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "f9814f6665cd225c22d53320a60f51fc525fa010e1b1c4c6bfacda3ed0d4fe54",
+      "output_sha256": "f9814f6665cd225c22d53320a60f51fc525fa010e1b1c4c6bfacda3ed0d4fe54",
+      "modified": false,
+      "lines": 226,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/HideAndSeek/HideAndSeekConfig.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "7d71384cc8c7ce8d033d74f9aaf5dead994f127c9afaa3579ff6cc95a99e921c",
+      "output_sha256": "98ff2403ac1318e6109e85bbd4bfea9747a72e718b97ac20defd374551272b8b",
+      "modified": true,
+      "lines": 21,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/HideAndSeek/Server.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "52340412bb0cb231ca00b500a9771989f3dd2997d24e327ca55afc1bbe08cf77",
+      "output_sha256": "52340412bb0cb231ca00b500a9771989f3dd2997d24e327ca55afc1bbe08cf77",
+      "modified": false,
+      "lines": 15,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/MurderMystery/Components/MurderMysteryComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "50016e2db44a693863a17a8e64720738654f1ede826470e3972d02ba801a75ab",
+      "output_sha256": "50016e2db44a693863a17a8e64720738654f1ede826470e3972d02ba801a75ab",
+      "modified": false,
+      "lines": 363,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/MurderMystery/MurderMysteryConfig.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "26b5395292f253650d189a7485c656fa5127b52b384307c0d03d06ef9c6867d2",
+      "output_sha256": "102fdb64cce3eda78b4e863bf0f882be778567462f5a59ba8ab62b6d90b2f58c",
+      "modified": true,
+      "lines": 18,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/MurderMystery/Server.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "282c550bf82078657972004350e6cd828c65bd9e65235d75ea89a23db4a8d215",
+      "output_sha256": "282c550bf82078657972004350e6cd828c65bd9e65235d75ea89a23db4a8d215",
+      "modified": false,
+      "lines": 15,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/OneInTheChamber/Components/OneInTheChamberComponent.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "44ddb664f7d885814226da836208bf12d7e82a2b645556778c968a6b744ed3ef",
+      "output_sha256": "44ddb664f7d885814226da836208bf12d7e82a2b645556778c968a6b744ed3ef",
+      "modified": false,
+      "lines": 119,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/OneInTheChamber/OneInTheChamberConfig.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "d24617b3c72f00b3c70e78314d3028a651dcd66015a2d1b80dc72ff06d970b60",
+      "output_sha256": "fad1191b1387e70bf921a74f266a37eddb830297381c7169496006af0f9fc111",
+      "modified": true,
+      "lines": 17,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/OneInTheChamber/Server.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "fe909d6cf603a5111788305382cc39867cc68672edd07a7fb6d5ea0c9ba5fa06",
+      "output_sha256": "fe909d6cf603a5111788305382cc39867cc68672edd07a7fb6d5ea0c9ba5fa06",
+      "modified": false,
+      "lines": 15,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Strike/Server.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "4e5023c21b38278f167bfbc857022d27cb785b0a3fa282b6a884edce108a0aba",
+      "output_sha256": "4e5023c21b38278f167bfbc857022d27cb785b0a3fa282b6a884edce108a0aba",
+      "modified": false,
+      "lines": 15,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/Gamemodes/Strike/StrikeConfig.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "5ce9d1d7d5cd7a39f0b2eafbe520dc319e34b62fca7e049bd473988f7f91332a",
+      "output_sha256": "a4497b26257aa0500a01d6cf8af0066c8a3297b4411abf18e820f8e34b345476",
+      "modified": true,
+      "lines": 33,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/GameTypes/FPS/ModeRegistry.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "69a7a6fe5a51fd889a4c854ed4c1b7977942ce29cbf570d85a21b6e374c055cf",
+      "output_sha256": "69a7a6fe5a51fd889a4c854ed4c1b7977942ce29cbf570d85a21b6e374c055cf",
+      "modified": false,
+      "lines": 51,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Modules/EventBus.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "62fc31b06078a8f408c58544d0a2c4895d7d8d5bbb07d28912ce1d526c0d3873",
+      "output_sha256": "62fc31b06078a8f408c58544d0a2c4895d7d8d5bbb07d28912ce1d526c0d3873",
+      "modified": false,
+      "lines": 72,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Services/ItemService.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "db52ff6cf7e3cc507966c08d1d3acd1491b0214783cccc49747c9a11c5825473",
+      "output_sha256": "db52ff6cf7e3cc507966c08d1d3acd1491b0214783cccc49747c9a11c5825473",
+      "modified": false,
+      "lines": 791,
+      "source_parse_error": false,
+      "output_parse_error": false
+    },
+    {
+      "path": "src/server/Services/PlayerComponentService.lua",
+      "source_repo": "defjunior/SquadDelta",
+      "source_sha256": "a032104c86e4cb6e213e3947ffb6b14a94c5fd874ad0f2dde606722f33a817c4",
+      "output_sha256": "a032104c86e4cb6e213e3947ffb6b14a94c5fd874ad0f2dde606722f33a817c4",
+      "modified": false,
+      "lines": 41,
+      "source_parse_error": false,
+      "output_parse_error": false
+    }
+  ]
+}
